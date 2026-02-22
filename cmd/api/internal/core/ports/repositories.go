@@ -1,9 +1,11 @@
 package ports
 
-import "arcanum/internal/core/domain"
+import "Arcanum/internal/core/domain"
+
 
 type DeckRepository interface {
-    GetDeckByType(deckType string) (domain.Deck, error)
+    Save(deck domain.Deck) error
+    GetBySlug(slug string) (domain.Deck, error)
 }
 
 
