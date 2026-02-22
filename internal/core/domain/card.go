@@ -7,6 +7,7 @@ type Card struct {
     Description string `json:"description"`
 	Deck 		string `json:"deck"`
     ImageURL    string `json:"image_url"`
+	Combinations map[string]string `json:"combinations,omitempty"`
 }
 
 type Deck struct {
