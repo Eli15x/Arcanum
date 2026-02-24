@@ -78,6 +78,7 @@ func loadJSONToMemory(repo ports.DeckRepository, folderPath string) error {
 			deck.Slug = slug
 
 			repo.Save(deck)
+
 			log.Printf("Baralho carregado: %s (%d cartas)", deck.Name, len(deck.Cards))
 		}
 	}

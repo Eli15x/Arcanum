@@ -7,18 +7,13 @@ import (
 	"sync"
 )
 
-// ErrDeckNotFound é retornado quando um baralho não existe no repositório.
 var ErrDeckNotFound = errors.New("baralho não encontrado")
 
-// MemoryDeckRepository é uma implementação em memória de ports.DeckRepository.
-// Thread-safe através de um RWMutex.
 type MemoryDeckRepository struct {
 	mu    sync.RWMutex
 	decks map[string]domain.Deck
 }
 
-// NewMemoryDeckRepository cria um novo repositório em memória e retorna a interface.
-// Preferível para injeção de dependência (DI) no composition root.
 func NewMemoryDeckRepository() ports.DeckRepository {
 	return &MemoryDeckRepository{
 		decks: make(map[string]domain.Deck),
