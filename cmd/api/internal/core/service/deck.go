@@ -41,7 +41,7 @@ func (s *deckService) DrawCards(deckType string, count int) ([]domain.Card, erro
 		cards[i], cards[j] = cards[j], cards[i]
 	})
 
-	isCigano := strings.EqualFold(deck.Slug, "baralho-cigano")
+	isCigano := strings.EqualFold(deck.Slug, "cigano")
 	if isCigano {
 		return s.drawCIgano(cards, count), nil
 	}
