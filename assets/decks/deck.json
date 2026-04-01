@@ -1,0 +1,9 @@
+{
+  "deck_name": "Baralho_Naipes",
+  "cards": [
+  { "id": 1, "name": "Paus", "suit": "", "description": "Energia,Ação,movimento,vitalidade,desafios do cotidiano.", "combinations": {} },
+  { "id": 2, "name": "Copas", "suit": "", "description": "Sentimentos,Afetos,Amor", "combinations": {} },
+  { "id": 3, "name": "Espadas", "suit": "", "description": "Desafios,Raciocinio,Lutas internas e situações conflituosas", "combinations": {} },
+  { "id": 4, "name": "Ouro", "suit": "", "description": "Dinheiro,bens,trabalhoi,prosperidade", "combinations": {} }
+  ]
+}

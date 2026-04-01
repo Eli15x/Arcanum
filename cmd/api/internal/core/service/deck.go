@@ -109,3 +109,7 @@ func (s *deckService) drawCIgano(cards []domain.Card, count int) []domain.Card {
 func (s *deckService) GetComplexSpread(spreadType string, deckType string) (map[string]domain.Card, error) {
 	return nil, nil
 }
+
+func (s *deckService) DrawNaipe(deckType string) ([]domain.Card, error) {
+	return nil, nil
+}

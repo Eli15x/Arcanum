@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "O Mensageiro",
-      "meaning": "Notícias rápidas, movimento, chegada de algo novo.",
+      "description": "Notícias rápidas, movimento, chegada de algo novo.",
       "combinations": {
         "2": "Pequenos problemas chegando.",
         "3": "Mudanças chegando.",
@@ -46,7 +46,7 @@
     },{
       "id": 2,
       "name": "O Trevo",
-      "meaning": "Pequenos obstáculos, sorte momentânea, esperança.",
+      "description": "Pequenos obstáculos, sorte momentânea, esperança.",
       "combinations": {
         "1": "Superação, soluções rápidas.",
         "3": "Problemas em uma viagem.",
@@ -88,7 +88,7 @@
     {
       "id": 3,
       "name": "O Navio",
-      "meaning": "Viagens, mudanças, novos rumos, horizonte distante.",
+      "description": "Viagens, mudanças, novos rumos, horizonte distante.",
       "combinations": {
         "1": "Mudanças internas necessárias.",
         "2": "Se mantenha distante dos problemas.",
@@ -130,7 +130,7 @@
 {
       "id": 4,
       "name": "A Casa",
-      "meaning": "Família, lar, estabilidade, equilíbrio emocional.",
+      "description": "Família, lar, estabilidade, equilíbrio emocional.",
       "combinations": {
         "1": "Pessoa que parte na sua vida.",
         "2": "Casa, imóvel com problemas.",
@@ -172,7 +172,7 @@
     {
       "id": 5,
       "name": "A Árvore",
-      "meaning": "Saúde, vitalidade, crescimento, estabilidade.",
+      "description": "Saúde, vitalidade, crescimento, estabilidade.",
       "combinations": {
         "1": "Realização de projetos de forma segura.",
         "2": "Procure suas raízes para afastar os problemas.",
@@ -214,7 +214,7 @@
     {
       "id": 6,
       "name": "As Nuvens",
-      "meaning": "Confusão mental, incertezas, dúvidas, instabilidade.",
+      "description": "Confusão mental, incertezas, dúvidas, instabilidade.",
       "combinations": {
         "1": "Situação clareando rapidamente.",
         "2": "Falta de pensamentos claros trazendo problemas.",
@@ -256,7 +256,7 @@
 {
       "id": 7,
       "name": "A Cobra",
-      "meaning": "Traição, inveja, astúcia, sensualidade e atenção.",
+      "description": "Traição, inveja, astúcia, sensualidade e atenção.",
       "combinations": {
         "1": "Traição sendo descoberta.",
         "2": "Situação de oportunismo traiçoeiro.",
@@ -298,7 +298,7 @@
    {
       "id": 8,
       "name": "O Caixão",
-      "meaning": "Fim de um ciclo, morte simbólica, transformações radicais, perdas.",
+      "description": "Fim de um ciclo, morte simbólica, transformações radicais, perdas.",
       "combinations": {
         "1": "Mudanças feitas trazendo novidades.",
         "2": "Mudanças efetuadas de forma negativa e problemática.",
@@ -340,7 +340,7 @@
   {
       "id": 9,
       "name": "O Buquê",
-      "meaning": "Equilíbrio, alegria, satisfação, beleza e cura.",
+      "description": "Equilíbrio, alegria, satisfação, beleza e cura.",
       "combinations": {
         "1": "Equilíbrio chegando na situação.",
         "2": "Falta de equilíbrio emocional.",
@@ -382,7 +382,7 @@
     {
       "id": 10,
       "name": "A Foice",
-      "meaning": "Corte, colheita, decisão brusca, rompimento necessário.",
+      "description": "Corte, colheita, decisão brusca, rompimento necessário.",
       "combinations": {
         "1": "Chegada de novidades em planos e projetos.",
         "2": "Atitudes colhendo problemas.",
@@ -424,7 +424,7 @@
     {
       "id": 11,
       "name": "O Chicote",
-      "meaning": "Poder, controle, conflitos, repetição e espiritualidade.",
+      "description": "Poder, controle, conflitos, repetição e espiritualidade.",
       "combinations": {
         "1": "Situação ou pessoa que volta do passado.",
         "2": "Insistir nas mesmas atitudes é motivo de tantos problemas, mude.",
@@ -466,7 +466,7 @@
    {
       "id": 12,
       "name": "Os Pássaros",
-      "meaning": "Comunicação, alegria, fofocas, parcerias e movimento social.",
+      "description": "Comunicação, alegria, fofocas, parcerias e movimento social.",
       "combinations": {
         "1": "Mudanças boas com maior comunicação.",
         "2": "Aumente a comunicação para superar problemas. Fofoca dificultando a vida.",
@@ -508,7 +508,7 @@
     {
       "id": 13,
       "name": "A Criança",
-      "meaning": "Novo começo, inocência, imaturidade, filhos, alegria e renovação.",
+      "description": "Novo começo, inocência, imaturidade, filhos, alegria e renovação.",
       "combinations": {
         "1": "Imaturidade na forma de agir e pensar.",
         "2": "Problemas com filhos, netos, crianças.",
@@ -550,7 +550,7 @@
 {
       "id": 14,
       "name": "A Raposa",
-      "meaning": "Estratégia, cautela, astúcia, sobrevivência, mas também falsidade e armadilhas.",
+      "description": "Estratégia, cautela, astúcia, sobrevivência, mas também falsidade e armadilhas.",
       "combinations": {
         "1": "Armadilha que exigirá rapidez para solução eficaz.",
         "2": "Use a esperteza para superar os problemas.",
@@ -592,7 +592,7 @@
     {
       "id": 15,
       "name": "O Urso",
-      "meaning": "Força, proteção, poder, mas também ciúmes, inveja e dominação.",
+      "description": "Força, proteção, poder, mas também ciúmes, inveja e dominação.",
       "combinations": {
         "1": "Final de situação dominadora.",
         "2": "Proteja-se e se feche na situação para solucionar os problemas.",
@@ -634,7 +634,7 @@
     {
       "id": 16,
       "name": "A Estrela",
-      "meaning": "Esperança, sorte, brilho próprio, proteção divina e espiritualidade (Linha Cigana).",
+      "description": "Esperança, sorte, brilho próprio, proteção divina e espiritualidade (Linha Cigana).",
       "combinations": {
         "1": "Confie na própria intuição para abrir seus caminhos.",
         "2": "Superação dos problemas com ajuda divina.",
@@ -676,7 +676,7 @@
     {
       "id": 17,
       "name": "A Cegonha",
-      "meaning": "Novidades, mudanças de rumo, fertilidade e renovação.",
+      "description": "Novidades, mudanças de rumo, fertilidade e renovação.",
       "combinations": {
         "1": "Procure novos caminhos para que a situação mude para melhor.",
         "2": "Situação nova trazendo problemas.",
@@ -718,7 +718,7 @@
     {
       "id": 18,
       "name": "O Cão",
-      "meaning": "Fidelidade, lealdade, amizade sincera, confiança e proteção.",
+      "description": "Fidelidade, lealdade, amizade sincera, confiança e proteção.",
       "combinations": {
         "1": "Apoie-se em amigos e na lealdade deles.",
         "2": "Amigos / amizade passando por problemas.",
@@ -760,7 +760,7 @@
     {
       "id": 19,
       "name": "A Torre",
-      "meaning": "Isolamento, espiritualidade, passado, instituições, o 'eu' interior.",
+      "description": "Isolamento, espiritualidade, passado, instituições, o 'eu' interior.",
       "combinations": {
         "1": "Isole-se para reavaliação interna, para evolução pessoal.",
         "2": "Dificuldade a nível pessoal, íntimo.",
@@ -802,7 +802,7 @@
     {
       "id": 20,
       "name": "O Jardim",
-      "meaning": "Vida social, colheita, projetos, lazer e o público.",
+      "description": "Vida social, colheita, projetos, lazer e o público.",
       "combinations": {
         "1": "Socialize.",
         "2": "Relacionamentos sociais com problemas.",
@@ -844,7 +844,7 @@
     {
       "id": 21,
       "name": "A Montanha",
-      "meaning": "Obstáculos, bloqueios, justiça, perseverança e desafios estagnados.",
+      "description": "Obstáculos, bloqueios, justiça, perseverança e desafios estagnados.",
       "combinations": {
         "1": "Superação rápida de problemas que consumiram muita energia.",
         "2": "Grandes e pequenos problemas.",
@@ -886,7 +886,7 @@
     {
       "id": 22,
       "name": "O Caminho",
-      "meaning": "Escolhas, livre-arbítrio, bifurcações, novos rumos e decisões.",
+      "description": "Escolhas, livre-arbítrio, bifurcações, novos rumos e decisões.",
       "combinations": {
         "1": "A escolha foi feita pelo caminho certo, aguarde as novidades boas.",
         "2": "Caminhos cheios de problemas.",
@@ -928,7 +928,7 @@
    {
       "id": 23,
       "name": "O Rato",
-      "meaning": "Desgaste, estresse, perdas, roubo e corrosão emocional ou material.",
+      "description": "Desgaste, estresse, perdas, roubo e corrosão emocional ou material.",
       "combinations": {
         "1": "Rapidamente a situação estressante vai mudar trazendo novidades.",
         "2": "O estresse mental trazendo os problemas.",
@@ -970,7 +970,7 @@
     {
       "id": 24,
       "name": "O Coração",
-      "meaning": "Sentimentos, amor, paixão, emoções profundas e entrega.",
+      "description": "Sentimentos, amor, paixão, emoções profundas e entrega.",
       "combinations": {
         "1": "Novos amores, novos sentimentos, novos caminhos emocionais!",
         "2": "Sentimentos causando os problemas.",
@@ -1012,7 +1012,7 @@
     {
       "id": 25,
       "name": "O Anel",
-      "meaning": "Compromisso, aliança, união, contrato e parceria.",
+      "description": "Compromisso, aliança, união, contrato e parceria.",
       "combinations": {
         "1": "Alianças que foram formadas trazendo uma nova fase boa de alegrias e solidez.",
         "2": "Essa aliança trará problemas.",
@@ -1054,7 +1054,7 @@
    {
       "id": 26,
       "name": "Os Livros",
-      "meaning": "Segredos, estudos, profissão, conhecimento oculto e intelecto.",
+      "description": "Segredos, estudos, profissão, conhecimento oculto e intelecto.",
       "combinations": {
         "1": "Mantenha segredo de planos, projetos, trabalho e estudos.",
         "2": "Segredos problemáticos.",
@@ -1096,7 +1096,7 @@
     {
       "id": 27,
       "name": "A Carta",
-      "meaning": "Comunicação escrita, documentos oficiais, convites, notícias e formalidades.",
+      "description": "Comunicação escrita, documentos oficiais, convites, notícias e formalidades.",
       "combinations": {
         "1": "Pegue tudo que sabe, as notícias que recebeu e dê um rumo novo a sua vida.",
         "2": "Notícias de problemas.",
@@ -1138,7 +1138,7 @@
     {
       "id": 28,
       "name": "O Cigano",
-      "meaning": "Figura masculina, o consulente (se homem), parceiro, ação e racionalidade.",
+      "description": "Figura masculina, o consulente (se homem), parceiro, ação e racionalidade.",
       "combinations": {
         "1": "Homem próximo sempre presente, possível parente.",
         "2": "Homem problemático.",
@@ -1180,7 +1180,7 @@
     {
       "id": 29,
       "name": "A Cigana",
-      "meaning": "Figura feminina, a consulente (se mulher), parceira, intuição e receptividade.",
+      "description": "Figura feminina, a consulente (se mulher), parceira, intuição e receptividade.",
       "combinations": {
         "1": "Mulher próxima sempre presente, possível parente.",
         "2": "Mulher problemática.",
@@ -1222,7 +1222,7 @@
     {
       "id": 30,
       "name": "Os Lírios",
-      "meaning": "Maturidade, paz, sabedoria, vida sexual e serenidade.",
+      "description": "Maturidade, paz, sabedoria, vida sexual e serenidade.",
       "combinations": {
         "1": "Use de sabedoria e um pouco de frieza para lidar com a fase que vai entrar.",
         "2": "Frieza emocional trazendo problemas.",
@@ -1264,7 +1264,7 @@
     {
       "id": 31,
       "name": "O Sol",
-      "meaning": "Sucesso, clareza, energia vital, prosperidade e verdade.",
+      "description": "Sucesso, clareza, energia vital, prosperidade e verdade.",
       "combinations": {
         "1": "Não fuja da realidade, não se esconda.",
         "2": "Solução clara para as dificuldades.",
@@ -1306,7 +1306,7 @@
     {
       "id": 32,
       "name": "A Lua",
-      "meaning": "Honras, mérito, reconhecimento, intuição profunda, mistérios e emoções.",
+      "description": "Honras, mérito, reconhecimento, intuição profunda, mistérios e emoções.",
       "combinations": {
         "1": "A intuição trazendo rapidamente novos rumos em uma situação.",
         "2": "Intuição mostrando os problemas.",
@@ -1348,7 +1348,7 @@
    {
       "id": 33,
       "name": "A Chave",
-      "meaning": "Soluções, livre-arbítrio, descobertas, autoridade e novos caminhos.",
+      "description": "Soluções, livre-arbítrio, descobertas, autoridade e novos caminhos.",
       "combinations": {
         "1": "O que tinha para ser descoberto foi, aproveite as novas opções.",
         "2": "Resolução dos problemas.",
@@ -1390,7 +1390,7 @@
     {
       "id": 34,
       "name": "Os Peixes",
-      "meaning": "Abundância, fluxo financeiro, negócios, multiplicação e prosperidade.",
+      "description": "Abundância, fluxo financeiro, negócios, multiplicação e prosperidade.",
       "combinations": {
         "1": "Entrada de dinheiro. Prosperidade chegando rapidamente.",
         "2": "A materialidade trazendo os problemas.",
@@ -1432,7 +1432,7 @@
     {
       "id": 35,
       "name": "A Âncora",
-      "meaning": "Estabilidade, segurança, trabalho, fixação ou estagnação.",
+      "description": "Estabilidade, segurança, trabalho, fixação ou estagnação.",
       "combinations": {
         "1": "A segurança que procura irá chegar rapidamente.",
         "2": "Apego aos problemas.",
@@ -1474,7 +1474,7 @@
     {
       "id": 36,
       "name": "A Cruz",
-      "meaning": "Carma, fé, destino, vitória após o sacrifício e encerramento de ciclos.",
+      "description": "Carma, fé, destino, vitória após o sacrifício e encerramento de ciclos.",
       "combinations": {
         "1": "Tudo que tinha que ser ultrapassado foi e agora o final feliz chega.",
         "2": "Final dos problemas.",
